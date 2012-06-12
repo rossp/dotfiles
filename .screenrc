@@ -1,0 +1,13 @@
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "%H|%w%=|%d/%m %c"
+
+vbellwait 0
+vbell_msg ^G
+bell_msg ^G
+
+autodetach on
+
+startup_message off
+
+
